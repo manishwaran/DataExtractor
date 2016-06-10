@@ -1,0 +1,39 @@
+ body{
+    margin: 0px;
+ }
+.fragment {
+  font-size: 12px;
+  font-family: tahoma;
+  height: auto;
+  border: 1px solid #ccc;
+  color: #555;
+  display: none;
+  padding: 10px;
+  box-sizing: border-box;
+  text-decoration: none;
+  margin: 2px;
+}
+.url-design{
+  padding: 10px;
+  box-sizing: border-box;
+  text-decoration: none;
+  margin: 2px;
+  border: 2px solid #61ABE0;
+}
+.centered{
+	margin: 0 auto;
+}
+.frame-design{
+  padding: 10px;
+  margin: 2px;
+  border: 2px solid #61ABE0;
+}
+.result-design{
+  padding: 10px;
+  margin: 2px;
+  border: 2px solid #61ABE0;
+  text-decoration: underline;
+  color: #7D7DD4;
+  font-size: 20px;
+  font-family: tahoma;
+}

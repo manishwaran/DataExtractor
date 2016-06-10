@@ -1,0 +1,33 @@
+{
+  "name": "extractdata",
+  "version": "1.0.0",
+  "description": "sending data",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "author": "manish",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "cheerio": "^0.20.0",
+    "connect-health-check": "^0.2.0",
+    "ejs": "^2.4.2",
+    "express": "^4.13.4",
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0",
+    "request": "^2.72.0",
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.14.1"
+  },
+  "engines": {
+    "node": ">=5.0 <=5.9",
+    "npm": "3.x"
+  },
+  "devDependencies": {
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015-node5": "^1.2.0",
+    "babel-preset-stage-0": "^6.5.0",
+    "webpack": "^1.13.1"
+  }
+}
