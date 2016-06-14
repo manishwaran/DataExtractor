@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import AppendItem from './AppendItem.jsx'
+
 class LeftPanel extends React.Component{
   constructor(props) {
     super(props);
